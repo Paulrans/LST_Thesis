@@ -1,0 +1,32 @@
+{
+    "id": "C439D26B",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1610370313035.0,
+    "source_on_save": false,
+    "relative_order": 8,
+    "properties": {
+        "expression": "cordf",
+        "caption": "cordf",
+        "totalObservations": 26,
+        "displayedObservations": 26,
+        "variables": 39,
+        "cacheKey": "E747DD69",
+        "object": "cordf",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=cordf&cache_key=E747DD69&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 0,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1610370313035,
+    "read_only": false,
+    "read_only_alternatives": []
+}

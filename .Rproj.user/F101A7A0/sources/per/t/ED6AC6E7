@@ -1,0 +1,32 @@
+{
+    "id": "ED6AC6E7",
+    "path": null,
+    "project_path": null,
+    "type": "r_dataframe",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1608288457151.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "expression": "WDIdat",
+        "caption": "WDIdat",
+        "totalObservations": 546,
+        "displayedObservations": 546,
+        "variables": 4,
+        "cacheKey": "0229A036",
+        "object": "WDIdat",
+        "environment": "",
+        "contentUrl": "grid_resource/gridviewer.html?env=&obj=WDIdat&cache_key=0229A036&max_cols=50",
+        "preview": 0
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1608217223,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1608288457151,
+    "read_only": false,
+    "read_only_alternatives": []
+}
